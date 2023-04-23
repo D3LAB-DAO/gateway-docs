@@ -1,6 +1,7 @@
 # Link
 
 - `Document`: [https://d3lab-dao.github.io/gateway-docs/](https://d3lab-dao.github.io/gateway-docs/)
+- `Intro Video`: [https://youtu.be/RKFvcTzRr3Y](https://youtu.be/RKFvcTzRr3Y)
 - `Demo Webpage`: [https://gateway-frontend.vercel.app/](https://gateway-frontend.vercel.app/)
 
 # GitHub

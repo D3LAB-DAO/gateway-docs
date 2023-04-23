@@ -9,7 +9,15 @@ This document presents a comprehensive guide to Project Gateway, a groundbreakin
 
 The primary purpose of Gateway is to enable Archway to reward web2 actions, allowing developers to benefit from both web2 and web3 technologies. By introducing a system that integrates and validates deterministic code execution, Gateway can efficiently reward web2 apps and developers based on the volume of triggering transactions. This innovative approach promotes the growth and development of decentralized applications, driving the adoption of Archway and decentralized technologies worldwide.
 
-## Brand Colors
+## Introduction Video
+
+[https://youtu.be/RKFvcTzRr3Y](https://youtu.be/RKFvcTzRr3Y)
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/RKFvcTzRr3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+# Brand Colors
 
 To maintain a consistent visual identity throughout the document, we have chosen the following brand colors inspired by the Archway logo and design principles:
 

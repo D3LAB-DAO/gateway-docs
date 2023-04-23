@@ -76,6 +76,11 @@ const config = {
             position: 'left',
             label: 'For Developers',
           },
+          {
+            href: 'https://youtu.be/RKFvcTzRr3Y',
+            position: 'left',
+            label: 'Video',
+          },
           // { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/D3LAB-DAO',
@@ -97,6 +102,10 @@ const config = {
               {
                 label: 'For Developers',
                 to: '/for-developers',
+              },
+              {
+                label: 'Video',
+                to: 'https://youtu.be/RKFvcTzRr3Y',
               },
             ],
           },
