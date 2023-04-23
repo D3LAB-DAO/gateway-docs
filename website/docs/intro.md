@@ -3,46 +3,19 @@ slug: /
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This document presents a comprehensive guide to Project Gateway, a groundbreaking solution developed to seamlessly connect Web 2.0 and Web 3.0 technologies using the Archway platform. Gateway aims to create a harmonious ecosystem where web2 applications and components can coexist with decentralized web3 technologies, fostering a more robust and inclusive development community.
 
-## Getting Started
+The primary purpose of Gateway is to enable Archway to reward web2 actions, allowing developers to benefit from both web2 and web3 technologies. By introducing a system that integrates and validates deterministic code execution, Gateway can efficiently reward web2 apps and developers based on the volume of triggering transactions. This innovative approach promotes the growth and development of decentralized applications, driving the adoption of Archway and decentralized technologies worldwide.
 
-Get started by **creating a new site**.
+## Brand Colors
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+To maintain a consistent visual identity throughout the document, we have chosen the following brand colors inspired by the Archway logo and design principles:
 
-### What you'll need
+![logo_no_shadow_512.png](./images/logo_no_shadow_512.png)
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+1. Orange: `#EB5B29` (from the Archway logo)
+2. Dark Gray: `#333333` (for logo, text and accents)
+3. Light Gray: `#F2F2F2` (for the background)
+4. White: `#FFFFFF` (for additional contrast and text)
