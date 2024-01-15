@@ -72,7 +72,7 @@ const config = {
             label: 'Introduction',
           },
           {
-            href: '/for-developers',
+            href: '/category/for-developers',
             position: 'left',
             label: 'For Developers',
           },
@@ -101,7 +101,7 @@ const config = {
               },
               {
                 label: 'For Developers',
-                to: '/for-developers',
+                to: '/category/for-developers',
               },
               {
                 label: 'Video',
@@ -121,16 +121,8 @@ const config = {
                 href: 'https://github.com/D3LAB-DAO/gateway-docs',
               },
               {
-                label: 'Gateway Frontend',
-                href: 'https://github.com/D3LAB-DAO/gateway-frontend',
-              },
-              {
                 label: 'Gateway Contract',
                 href: 'https://github.com/D3LAB-DAO/gateway-contract',
-              },
-              {
-                label: 'Gateway Bot',
-                href: 'https://github.com/D3LAB-DAO/gateway-bot',
               },
               {
                 label: 'Gateway Backend',
@@ -142,12 +134,8 @@ const config = {
             title: 'D3LAB',
             items: [
               {
-                label: 'd3lab.dao@gmail.com',
-                href: 'mailto:d3lab.dao@gmail.com',
-              },
-              {
-                label: 'Homepage',
-                href: 'http://d3lab.xyz',
+                label: 'lukepark327@gmail.com',
+                href: 'mailto:lukepark327@gmail.com',
               },
               {
                 label: 'GitHub',

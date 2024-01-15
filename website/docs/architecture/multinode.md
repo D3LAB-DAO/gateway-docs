@@ -51,7 +51,7 @@ The Relay serves as the pivotal communication hub of the architecture, orchestra
 
 - **Verifiable Random Function (VRF)**: A `VRF` is employed within `send` to ensure the integrity and randomness of operations. It is used to verify the sortition of nodes. The use of VRF, along with the quorum and consensus mechanisms, contributes significantly to the Relay's ability to balance load across the system and enhance security. These features ensure that no single node or small group of nodes can dominate or disrupt the process, promoting a fair and decentralized environment.
 
-- **Database (DB)**: The `DB` is essential for systematically storing and managing requests. It houses key tables: requests, nodes, and results. Further information on the database structure is detailed in the [tables section](./tables).
+- **Database (DB)**: The `DB` is essential for systematically storing and managing requests. It houses key tables: requests, nodes, and results. Further information on the database structure is detailed in the [tables section](../for-developers/tables).
 
 
 ### Node

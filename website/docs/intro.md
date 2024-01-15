@@ -5,9 +5,12 @@ sidebar_position: 1
 
 # Introduction
 
-This document presents a comprehensive guide to Project Gateway, a groundbreaking solution developed to seamlessly connect Web 2.0 and Web 3.0 technologies using the Archway platform. Gateway aims to create a harmonious ecosystem where web2 applications and components can coexist with decentralized web3 technologies, fostering a more robust and inclusive development community.
+Gateway is revolutionizing the digital service landscape by bridging the gap between web2 and web3, enabling a more open and collaborative internet.
+This fusion empowers developers to craft invaluable applications that blend features from both worlds.
 
-The primary purpose of Gateway is to enable Archway to reward web2 actions, allowing developers to benefit from both web2 and web3 technologies. By introducing a system that integrates and validates deterministic code execution, Gateway can efficiently reward web2 apps and developers based on the volume of triggering transactions. This innovative approach promotes the growth and development of decentralized applications, driving the adoption of Archway and decentralized technologies worldwide.
+Particularly, Gateway leverages Archway's reward ecosystem to offer direct incentives for web2 activities, enticing developers to embrace the combined potential of web2 and web3 technologies.
+Through the introduction of a system that integrates and validates deterministic code execution, Gateway can efficiently distribute rewards to web2 applications and developers in proportion to the volume of triggering transactions.
+
 
 ## Introduction Video
 
@@ -21,7 +24,7 @@ The primary purpose of Gateway is to enable Archway to reward web2 actions, allo
 
 To maintain a consistent visual identity throughout the document, we have chosen the following brand colors inspired by the Archway logo and design principles:
 
-![logo_no_shadow_512.png](./images/logo_no_shadow_512.png)
+![logos.png](./images/logos.png)
 
 1. Orange: `#EB5B29` (from the Archway logo)
 2. Dark Gray: `#333333` (for logo, text and accents)

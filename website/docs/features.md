@@ -4,6 +4,10 @@ sidebar_position: 3
 
 # Features
 
+Imagine a situation where each node runs identical deterministic JavaScript code, activated by a transaction.
+The outcomes are concurrently uploaded to the blockchain and verified by a smart contract.
+Within this context, the web2 logic, represented by JavaScript, is executed and validated in alignment with web3's decentralization principles.
+
 Gateway provides an extensive set of features that streamline the rewarding process for web2 actions, as well as enable the execution and validation of deterministic code within the Archway ecosystem. Key features include:
 
 ![features](./images/execution.png)

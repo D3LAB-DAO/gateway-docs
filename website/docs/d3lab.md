@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 999
 ---
 
 # Who We Are
@@ -12,7 +12,7 @@ It is noteworthy that Archway and D3LAB share a common focus on developing and n
 
 ---
 
-[💌 d3lab.dao@gmail.com](mailto:d3lab.dao@gmail.com)
+[💌 lukepark327@gmail.com](mailto:lukepark327@gmail.com)
 
 [🏠 Homepage](http://d3lab.xyz)
 

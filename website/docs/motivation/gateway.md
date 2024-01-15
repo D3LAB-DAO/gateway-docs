@@ -9,3 +9,9 @@ To bridge this gap, we introduce **Gateway**—a service on Archway that rewards
 ![overview](../images/overview.png)
 
 Gateway empowers us to reward web2 apps and developers based on the volume of triggering transactions in a manner compatible with Archway, fostering a more inclusive and interconnected ecosystem.
+
+Some potential applications of the Gateway are:
+- Marrying **Generative AI** with **NFTs** for unique digital assets.
+- Bringing the convenience of **Telegram Bots** to the **De-Fi** ecosystem.
+- Integrating **ChatGPT** capabilities within the **NFT** space.
+- Combining the efficiency of **Poseidon Hash** with **Roll-up** technologies.

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 1
 ---
 
-# For Developers
+# Quick Start
 
 - `Docs`: [https://github.com/D3LAB-DAO/gateway-docs](https://github.com/D3LAB-DAO/gateway-docs)
 - `Frontend`: [https://github.com/D3LAB-DAO/gateway-frontend](https://github.com/D3LAB-DAO/gateway-frontend)
@@ -25,6 +25,12 @@ Before setting up Gateway, ensure you have the following:
 
 ## Installation
 
+```bash
+$ npm install
+```
+
+## Run
+
 To run the microservices:
 
 ```bash
@@ -39,7 +45,7 @@ $ node src/relay/send.js
 $ node src/node/app.js
 ```
 
-For a detailed explanation of how each microservice within our architecture operates and interacts with one another, please refer to the documentation [here](./architecture/microservices.md).
+For a detailed explanation of how each microservice within our architecture operates and interacts with one another, please refer to the documentation [here](./microservices).
 
 
 ## Contract
